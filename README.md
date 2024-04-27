@@ -1,5 +1,5 @@
 # Asteroids
-Second ever game. Was led to self-study trigonometry and a bunch of other Maths to code this.
+Second ever game from 2010. Was led to self-study trigonometry to code this.
 
 Controls: WASD for movement, 1-5 for weapons, SPACE to shoot
 
